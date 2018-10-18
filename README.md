@@ -11,4 +11,11 @@
     $ npm install
     $ rm -rf src/
 
+<br/>
 
+    $ npm run test
+
+<br/>
+
+    $ npm install --save-dev react-test-renderer
+    $ npm install --save-dev enzyme-adapter-react-16
